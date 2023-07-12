@@ -2,7 +2,7 @@
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://safronman.github.io/homework-front-with-solution",
+  "homepage": "https://safronman.github.io/original-hw-gutter-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
