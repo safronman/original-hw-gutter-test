@@ -17,7 +17,7 @@ type UserListProps = {
 export const UserList = (props: UserListProps) => {
   return (
     <div id={'hw01-users'}>
-      <h2>User List:</h2>
+      <h2>User List</h2>
       <ul>
         {props.users.map((user) => (
           <li key={user.id} id={`hw01-user-${user.id}`}>
